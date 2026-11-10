@@ -30,4 +30,4 @@ print("Tip: options are case sensitive.")
 print("-A is not the same as -a.")
 print("=" * 44)
 
-print("Debug mode is on.")
+##print("Debug mode is on.")
